@@ -1,0 +1,2 @@
+def reverse_each_word(a_string)
+authenticate_or_request_with_http_digestkey-for-min-value-nyc01-seng-ft-031521
